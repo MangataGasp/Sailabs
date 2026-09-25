@@ -80,7 +80,7 @@ const OpeningAnimation = ({ onComplete }) => {
                             ease: "easeInOut"
                         }}
                     >
-                        A K E S T A C K
+                        S A I L A B S
                     </motion.h1>
 
                     <div className="mx-auto mt-6 h-px w-40 overflow-hidden bg-white/10">
