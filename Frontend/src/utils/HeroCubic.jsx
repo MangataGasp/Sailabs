@@ -243,7 +243,7 @@ const HeroCubic = () => {
                                 className="font-bold tracking-tight text-slate-900 dark:text-white drop-shadow-lg"
                                 style={{ fontSize: dims.centerText }}
                             >
-                                AKEStack
+                                SAILABS
                             </span>
 
                             <span

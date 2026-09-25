@@ -12,14 +12,8 @@ const Navbar = () => {
             <nav className='flex justify-between py-5'>
                 <div>
                     <Link to='/' className='font-bold text-sm tracking-widest'>
-                        A K E S T A C K
+                        S A I L A B S LTD.
                     </Link>
-                    <div>
-                        <p className='h-3 w-3 rounded-full border'></p>
-                        <p className='h-3 w-10 border rounded-2xl flex justify-between items-center p-1'>
-                            <p>&lt; /&gt;</p>
-                        </p>
-                    </div>
                 </div>
 
                 <div className='lg:flex hidden gap-6 font-light dark:text-gray-400'>
